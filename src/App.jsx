@@ -25,13 +25,13 @@ const App = () => {
 
         <div className="w-full absolute top-0 h-screen text-white">
           <nav className="p-8 w-full flex justify-between bg-black/50">
-            <div className="brand text-2xl font-regular">Thirtysixstudios</div>
+            <div className="text-2xl font-regular hover:cursor-pointer">Thirtysixstudio</div>
             <div className="links flex gap-10">
               {['Home', 'About', 'Projects', 'Contact'].map((link, index) => (
 
                 <a key={index}
                   href={`#${link.toLowerCase()}`}
-                  className="text-white hover:text-gray-400 transition-colors text-md"
+                  className="text-white hover:text-gray-400 hover:underline hover:underline-offset-8 transition-colors text-md"
                 >
                   {link}
                 </a>
@@ -83,7 +83,7 @@ const App = () => {
           </div>
 
           <div className="w-full">
-            <h1 className="text-[16.2rem] font-md leading-none tracking-tight mt-36">Thirtysixstudio</h1>
+            <h1 className="text-[15.5rem] font-md leading-none tracking-tight mt-36">Thirtysixstudio</h1>
           </div>
 
 
