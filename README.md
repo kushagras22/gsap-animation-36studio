@@ -1,3 +1,5 @@
+![Screenshot 2025-01-21 234906](https://github.com/user-attachments/assets/01227e64-4386-4070-93c6-0334aadec229)
+
 # ThirtySixStudio - Digital Production Agency Website
 
 A modern, interactive website for ThirtySixStudio - a boutique digital production agency specializing in immersive experiences, design, motion, and creative technology.
